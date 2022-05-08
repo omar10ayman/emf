@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250960742354",
+    "project_id": "myemf-209db",
+    "storage_bucket": "myemf-209db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250960742354:android:3ac60228b23eae82b52a0b",
+        "android_client_info": {
+          "package_name": "com.example.emf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250960742354-dlhhtkr3l00aa1m9kbf1dvq75mpuit5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjCg3-VN8wyG8F_0CBm3nE_cYioyh8hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250960742354-dlhhtkr3l00aa1m9kbf1dvq75mpuit5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
